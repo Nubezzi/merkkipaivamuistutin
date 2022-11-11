@@ -2,7 +2,6 @@ import { useState, useEffect } from 'react'
 import * as React from 'react';
 import Parse from 'parse/dist/parse.min.js';
 import axios from 'axios'
-import storage from './services/storage'
 import './index.css'
 import Count from "./Count";
 import { experimentalStyled as styled } from '@mui/material/styles';
