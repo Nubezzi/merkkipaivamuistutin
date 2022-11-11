@@ -53,6 +53,8 @@ figure, header, nav, section, article, aside, footer, figcaption {
 .Pohja{
   padding-top: 3%;
   padding-bottom: 20%;
+  text-align: center;
+  width: 100%;
 }
 
 .Nappi{
