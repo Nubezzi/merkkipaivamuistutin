@@ -50,7 +50,33 @@ figure, header, nav, section, article, aside, footer, figcaption {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.Pohja{
+  padding-top: 3%;
+  padding-bottom: 20%;
+}
+
+.Nappi{
+  background-color: cornflowerblue;
+  position: fixed;
+  color: #eee;
+  bottom: 2%;
+  left: 2%;
+  text-align: center;
+  align-content: center;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: medium;
+  -ms-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/*.Firework{
+  display: none;
+}*/
+
 .Trademark{
+  display: none;
   text-align: center;
   position: fixed;
   bottom: 1%;

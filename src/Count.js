@@ -9,8 +9,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <div className="App-title">{this.props.text}: {this.props.name}</div>
-        <div className="App-date">{this.props.deadline}</div>
+        <div className="App-title">{this.props.text}: {this.props.name} {this.props.deadlinetext}</div>
         <Clock deadline={this.props.deadline} />
       </div>
     );
