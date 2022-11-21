@@ -51,7 +51,7 @@ const theme = createTheme({
   const juhlat = [[2001, 3-1, 19, "Paavo"], [2005, 12-1, 19, "Veera"],
     [1970, 11-1, 21, "Kaj"], [2012, 5-1, 17, "Laura"],
     [1974, 5-1, 8, "Satu"], [1952, 10-1, 11, "Fammu"],
-    [1970, 11-1, 21, "Joulu"], [2012, 6-1, 24, "Juhannus"],
+    [1970, 12-1, 24, "Joulu"], [2012, 6-1, 24, "Juhannus"],
     [1974, 11-1, 13, "Isänpäivä"], [1971, 5-1, 14, "Äitienpäivä"]]
 
   const [alignment, setAlignment] = useState('pois');
